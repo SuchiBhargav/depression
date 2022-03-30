@@ -1,0 +1,11 @@
+server:
+  port: 9001
+
+  /*to register this service in eureka server with user defined name not default*/
+spring:
+  application:
+    name: user-service
+
+eureka:
+  instance:
+    hostname: localhost

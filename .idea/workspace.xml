@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33d161aa-387b-4ce2-ad2c-d0a8db748e7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ui/Healthcare_UI/ui/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ui/Healthcare_UI/ui/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ui/Healthcare_UI/ui/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ui/Healthcare_UI/ui/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ui/Healthcare_UI/ui/.idea/ui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ui/Healthcare_UI/ui/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="271TvMBe7UW4ukpyatptITmUOzo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d161aa-387b-4ce2-ad2c-d0a8db748e7e" name="Changes" comment="" />
+      <created>1648486823761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648486823761</updated>
+      <workItem from="1648486825845" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

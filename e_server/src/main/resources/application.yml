@@ -1,0 +1,13 @@
+server:
+  port: 8761
+
+  ##eureka is microservice but dont register by itself
+
+  eureka:
+    client:
+      registerWithEureka: false
+      fetchRegistry: false
+    server:
+      waitTimeInMsWhenSyncEmpty: 0
+    instance:
+      hostname:localhost
